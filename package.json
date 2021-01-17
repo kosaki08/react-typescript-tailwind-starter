@@ -1,6 +1,27 @@
 {
   "name": "react-typescript-tailwind-starter",
   "version": "0.1.0",
+  "description": "Starter kit for React, Typescript, TailwindCSS, Jest and Babel.",
+  "keywords": [
+    "react",
+    "webpack",
+    "typescript",
+    "babel",
+    "TailwindCSS",
+    "emotion",
+    "starter",
+    "boilerplate"
+  ],
+  "author": "kosaki56",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosaki56/react-typescript-tailwind-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kosaki56/react-typescript-tailwind-starter/issues"
+  },
+  "homepage": "https://github.com/kosaki56/react-typescript-tailwind-starter",
   "private": true,
   "dependencies": {
     "@emotion/core": "^11.0.0",
