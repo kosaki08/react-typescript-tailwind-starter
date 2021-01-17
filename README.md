@@ -2,7 +2,7 @@
 
 - **[React](https://facebook.github.io/react/)** (17.x)
 - **[Typescript](https://www.typescriptlang.org/)** (4.x)
-- [TailwndCSS](http://tailwindcss.com/) and [Emotion](https://emotion.sh/docs/introduction) support
+- [TailwndCSS](http://tailwindcss.com/) and [twin.macro](https://github.com/ben-rogerson/twin.macro) ([Emotion](https://emotion.sh/docs/introduction)) support
 - Code linting: [ESLint](https://github.com/eslint/eslint)
 - Formatting: [Prettier](https://github.com/prettier/prettier)
 - Testing: [Jest](https://facebook.github.io/jest/) and [Testing Library](https://testing-library.com/)
